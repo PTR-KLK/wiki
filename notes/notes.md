@@ -7,4 +7,4 @@ tags:
   - notes
 ---
 
-In this place, there'll be a summary of my notes.`
+In this place, there'll be a summary of my notes.
