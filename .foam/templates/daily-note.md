@@ -2,6 +2,7 @@
 title: $FOAM_TITLE
 description: Daily note description
 date: $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE
+featuredImage: <imageUrl>
 tags:
   - journal
 foam_template:
