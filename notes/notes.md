@@ -7,6 +7,11 @@ date: 2022-04-02
 tags:
   - notes
 ---
+# Notes
+**2022-04-02**
+**This is the index of my notes**
+
+![network](../attachments/notes-featured.png)
 
 In this place, there'll be a summary of my notes.
 

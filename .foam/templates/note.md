@@ -1,9 +1,9 @@
 ---
 title: $FOAM_TITLE
 slug: $FOAM_SLUG
-description: Note description
+description: <!-- description -->
 date: $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE
-featuredImage: <imageUrl>
+featuredImage: <!-- image -->
 tags:
   - notes
 foam_template:
@@ -11,3 +11,9 @@ foam_template:
   description: This is my note template
   filepath: notes/$FOAM_TITLE.md
 ---
+
+# $FOAM_TITLE
+**$FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE**
+**<!-- description -->**
+
+![](<!-- image -->)

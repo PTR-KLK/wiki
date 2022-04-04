@@ -1,11 +1,17 @@
 ---
 title: $FOAM_TITLE
-description: Daily note description
+description: <!-- description -->
 date: $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE
-featuredImage: <imageUrl>
+featuredImage: <!-- image -->
 tags:
   - journal
 foam_template:
   name: Daily note template
   description: This is my daily note template
 ---
+
+# $FOAM_TITLE
+**$FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE**
+**<!-- description -->**
+
+![](<!-- image -->)
